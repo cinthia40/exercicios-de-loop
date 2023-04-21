@@ -28,8 +28,8 @@ public class Laco_de_repeticao_for {
 				
 	        }
 			
-	        System.out.println("numeros pares : " +contPar);
-	        System.out.println("numeros impares: " + contImpar);
+	        System.out.println("Total de números pares: " +contPar);
+	        System.out.println("Total de números ímpares: " + contImpar);
 				
 				
 			}
